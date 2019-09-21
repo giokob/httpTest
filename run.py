@@ -38,7 +38,7 @@ def main():
     
     print("---------------------\nTotal score is: {}".format(total_score))
     if bonus:
-        print("You got bonus +5% on midterm!") 
+        print("You got bonus +5%") 
     else:
         print("No bonus, try harder!") 
 
